@@ -12,7 +12,7 @@ Version:	1.5.2
 Release:	%mkrel 1
 License:	zlib
 Group:		System/Libraries
-URL:		http://www.libpng.org/pub/png/libpng.html
+URL:		https://www.libpng.org/pub/png/libpng.html
 Source:		http://prdownloads.sourceforge.net/libpng/%{libname_orig}-%{version}.tar.xz
 # (tpg) APNG support http://littlesvr.ca/apng/
 # (tpg) http://hp.vector.co.jp/authors/VA013651/freeSoftware/apng.html
